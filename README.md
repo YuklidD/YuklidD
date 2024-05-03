@@ -39,7 +39,7 @@
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/H0W13r.png" alt="TryHackMe">
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 </div>
 
 <div align="center">
@@ -47,3 +47,5 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=yuklidd&show_icons=true&locale=en" alt="yuklidd" /></p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yuklidd&" alt="yuklidd" /></p>
 </div>
+
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
