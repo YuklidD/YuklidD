@@ -46,6 +46,7 @@
 
 <br/>
 <hr/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/H0W13r.png" alt="TryHackMe">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuklidd&show_icons=true&locale=en&layout=compact" alt="yuklidd" /></p>
