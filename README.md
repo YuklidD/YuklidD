@@ -35,7 +35,7 @@
  <a href="https://www.linkedin.com/in/dakshanapeiris/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
- <a href="https://www.instagram.com/invites/contact/?i=1clg3ys6dxnfp&utm_content=5ljl6pm" target="_blank">
+ <a href="https://www.instagram.com/invites/contact/p&utm_content=5ljl6pm" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://facebook.com/dakshana.tharindu" target="_blank">
