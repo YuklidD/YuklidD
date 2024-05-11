@@ -4,55 +4,37 @@
 <details open>
 <summary><b>(click to expand or hide)</b></summary>
   
-1. [Cybersecurity Hackathon 2022](#hackathon)
+1. [THM-Pre Security](#thms)
   
-1. [ARP spoofing & Man In The Middle Attacks Execution & Detection](#arp)
+1. [THM-Introduction to Cyber Security](#thmcs)
 
-1. [Introduction to Cloud Computing on AWS for Beginners [2022]](#aws)
+1. [Agile Project Management in ICT Project - UOM](#uom1)
 
-1. [Batch Scripting(CMD,MS-DOS,Windows) Beginner to Expert 2021](#batch)
+1. [HackerRank-Software Engineer Intern](#hkr1)
+   
+1. [KodeKloud-12 Factor App](#twof)
 
-1. [Build a Forensic Virtual Machine](#vm)
+1. [Kodekloud-Fundamentals of DevOps](#devops)
 
-1. [Introduction to Cryptography for Beginners](#crypto)
+1. [Coursera-Architecting Solutions on AWS](#ca1)
 
-1. [Digital Forensics and Electronic Evidence](#forensic)
+1. [Coursera-Introduction to Google SEO](#ca2)
 
-1. [Ethical Hacking for Beginners](#eth1)
+1. [Coursera-Hands-on Introduction to Linux Commands and Shell Scripting](#ca3)
 
-1. [Learn Ethical Hacking From Scratch](#eth2)
+1. [Coursera-Set Up and Configure a Cloud Environment in Google Cloud: AWS Challange Lab](#ca4)
 
-1. [Learn How to Fix Wi-Fi, Computer, and Networking problems!](#wifi)
+1. [Coursera-Wireshark For Basic Network Security Analysis](#ca5)
 
-1. [Git Going Fast: One Hour Git Crash Course](#git)
+1. [Front-End Web Development - UOM](#uom2)
 
-1. [Introduction to Cyber Security](#cyber)
+1. [Web Design for Beginners - UOM](#uom3)
 
-1. [IT Help Desk Professional](#help)
+1. [Python for Beginners -UOM](#uom4)
 
-1. [IT Troubleshooting Skill Training](#trouble)
+1. [Postman-AI Text Summerizer app](#post)
 
-1. [Linux Command Line Basics](#linux)
 
-1. [Metasploit Framework: Penetration Testing with Metasploit](#metasploit)
-
-1. [Learn Network Hacking From Scratch (WiFi & Wired)](#network)
-
-1. [Fundamentals of Networking for Effective Backend Design](#networking)
-
-1. [Nmap for Ethical Hacking/Network Security & Bug Bounties](#nmap)
-
-1. [Complete Windows Server Administration Course](#server)
-
-1. [Learn Social Engineering From Scratch](#social)
-
-1. [Website Hacking/Penetration Testing & Bug Bounty Hunting](#website)
-
-1. [Learn Wi-Fi Password Penetration Testing (WEP/WPA/WPA2)](#wpa)
-
-1. [Windows Server 2019 Training for Beginners](#2019)
-
-1. [Getting Started with Wireshark: The Ultimate Hands-On Course](#wireshark)
 </details>
 
 <a id="hackathon"></a>
