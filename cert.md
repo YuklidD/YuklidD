@@ -50,7 +50,7 @@
 <a id="uom1"></a>
 ## Agile Project Management in ICT Project - UOM
 
-![Agile Project Management in ICT Project - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Agile%20Project%20Management%20in%20ICT%20Projects.pdf)
+![Agile Project Management in ICT Project - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/agile.jpg)
 
 <a id="hkr1"></a>
 ## HackerRank-Software Engineer Intern
@@ -95,17 +95,17 @@
 <a id="uom2"></a>
 ## Front-End Web Development - UOM
 
-![Front-End Web Development - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Front-End_Web_Development_E-Certificate.pdf)
+![Front-End Web Development - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Front-End-Web.jpg)
 
 <a id="uom3"></a>
 ## Web Design for Beginners - UOM
 
-![Web Design for Beginners - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Web_Design_for_Beginners_E-Certificate.pdf)
+![Web Design for Beginners - UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Web%20Design.jpg)
 
 <a id="uom4"></a>
 ## Python for Beginners -UOM
 
-![Python for Beginners -UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Python_for_Beginners_E-Certificate.pdf)
+![Python for Beginners -UOM](https://github.com/YuklidD/YuklidD/blob/main/Assets/Python.jpg)
 
 <a id="post"></a>
 ## Postman-AI Text Summerizer app
