@@ -55,7 +55,7 @@
 <a id="hkr1"></a>
 ## HackerRank-Software Engineer Intern
 
-![HackerRank-Software Engineer Intern](https://github.com/YuklidD/YuklidD/blob/main/Assets/HackerRank-Software%20Engineer%20Intern.pdf)
+![HackerRank-Software Engineer Intern](https://github.com/YuklidD/YuklidD/blob/main/Assets/hackerRank.jpg)
 
 <a id="tf"></a>
 ## KodeKloud-12 Factor App
