@@ -29,7 +29,7 @@
 <h2>Connect with me:</h2>
 
 <p align="center">
- <a href="https://dakshanapeiris.netlify.app/" target="blank">
+ <a href="https://dakshanapeiris.me/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/dakshanapeiris/" target="_blank">
