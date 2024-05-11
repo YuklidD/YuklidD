@@ -60,7 +60,7 @@
 <a id="tf"></a>
 ## KodeKloud-12 Factor App
 
-![KodeKloud-12 Factor App]
+![KodeKloud-12 Factor App](https://github.com/YuklidD/YuklidD/blob/main/Assets/KodeKloud-12%20Factor%20App.jpg)
 
 <a id="devops"></a>
 ## Kodekloud-Fundamentals of DevOps
