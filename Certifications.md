@@ -39,6 +39,11 @@
 
 </details>
 
+<a id="thmdev"></a>
+## THM-DevSecOps
+
+![THM-DevSecOps](https://github.com/YuklidD/YuklidD/blob/main/Assets/THM-IPHPESAJ7S.png)
+
 <a id="thms"></a>
 ## THM-Pre Security
 
