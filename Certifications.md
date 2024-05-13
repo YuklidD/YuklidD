@@ -3,6 +3,8 @@
 ## Table of Certificates
 <details open>
 <summary><b>(click to expand or hide)</b></summary>
+
+1. [THM-DevSecOps](#thmdev)
   
 1. [THM-Pre Security](#thms)
   
