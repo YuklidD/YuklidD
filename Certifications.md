@@ -10,6 +10,8 @@
   
 1. [THM-Introduction to Cyber Security](#thmcs)
 
+1. [Programming Foundations: Beyond the Fundamentals](#fp)
+
 1. [Agile Project Management in ICT Project - UOM](#uom1)
 
 1. [HackerRank-Software Engineer Intern](#hkr1)
@@ -53,6 +55,11 @@
 ## THM-Introduction to Cyber Security
 
 ![THM-Introduction to Cyber Security](https://github.com/YuklidD/YuklidD/blob/main/Assets/THM-Introduction%20to%20Cyber%20Security.jpg)
+
+<a id="fp"></a>
+# Programming Foundations: Beyond the Fundamentals
+
+![Programming Foundations: Beyond the Fundamentals](https://github.com/YuklidD/YuklidD/blob/e255bb71279dd848ec2ce7caf6387ecf80a653f1/Assets/Programming%20Foundations%3A%20Beyond%20the%20Fundamentals.png)
 
 <a id="uom1"></a>
 ## Agile Project Management in ICT Project - UOM
