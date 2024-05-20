@@ -49,7 +49,7 @@
 <a id="thmjt"></a>
 ## THM-Jr Penetration Tester
 
-![THM-Jr Penetration Tester]()
+![THM-Jr Penetration Tester](https://github.com/YuklidD/YuklidD/blob/763572410a97a251e5fa2563197b9826ae31e3b1/Assets/THM-EKLRTWXJNO.png)
 
 <a id="thmweb"></a>
 ## THM-Web Fundamentals
