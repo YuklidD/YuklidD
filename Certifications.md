@@ -2,7 +2,10 @@
 
 ## Table of Certificates
 <details open>
-<summary><b>(click to expand or hide)</b></summary> 
+<summary><b>(click to expand or hide)</b></summary>  
+
+
+1. [THM-Jr Penetration Tester](#thmjt)
   
 1. [THM-Web Fundamentals](#thmweb)
 
@@ -42,6 +45,11 @@
 
 
 </details>
+
+<a id="thmjt"></a>
+## THM-Jr Penetration Tester
+
+![THM-Jr Penetration Tester]()
 
 <a id="thmweb"></a>
 ## THM-Web Fundamentals
