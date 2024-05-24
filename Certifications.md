@@ -51,7 +51,7 @@
 <a id="thmcom"></a>
 ## THM-CompTIA Pentest+
 
-![THM-CompTIA Pentest+](https://github.com/YuklidD/YuklidD/blob/763572410a97a251e5fa2563197b9826ae31e3b1/Assets/THM-EKLRTWXJNO.png)
+![THM-CompTIA Pentest+](https://github.com/YuklidD/YuklidD/blob/main/Assets/THM-RM98LT7VK1.png)
 
 <a id="thmjt"></a>
 ## THM-Jr Penetration Tester
