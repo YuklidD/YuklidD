@@ -60,7 +60,7 @@
 
 ![THM-Jr Penetration Tester](https://github.com/YuklidD/YuklidD/blob/763572410a97a251e5fa2563197b9826ae31e3b1/Assets/THM-EKLRTWXJNO.png)
 
-<a id="#blue1"></a>
+<a id="blue1"></a>
 ## Introduction to Vulnerability Management
 
 ![Introduction to Vulnerability Management](https://github.com/YuklidD/YuklidD/blob/main/Assets/Introduction%20to%20Vulnerability%20Management.jpg?raw=true)
