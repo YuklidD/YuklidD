@@ -7,6 +7,10 @@
 
 1. [THM-CompTIA Pentest+](#thmcom)
 
+1. [Cisco-Ethical Hacker](#ciscoeh)
+
+1. [Cisco-Inttroduction to IOT](#ciscoiot)
+
 1. [THM-Jr Penetration Tester](#thmjt)
 
 1. [Introduction to Vulnerability Management](#blue1)
@@ -54,6 +58,16 @@
 ## THM-CompTIA Pentest+
 
 ![THM-CompTIA Pentest+](https://github.com/YuklidD/YuklidD/blob/main/Assets/THM-RM98LT7VK1.png)
+
+<a id="ciscoeh"></a>
+## Cisco-Ethical Hacker
+
+![Cisco-Ethical Hacker](https://github.com/YuklidD/YuklidD/blob/main/Assets/Ethical%20Hakcer.png)
+
+<a id="ciscoiot"></a>
+## Cisco-Inttroduction to IOT
+
+![Cisco-Inttroduction to IOT](https://github.com/YuklidD/YuklidD/blob/main/Assets/Introduction%20to%20IOT.png)
 
 <a id="thmjt"></a>
 ## THM-Jr Penetration Tester
