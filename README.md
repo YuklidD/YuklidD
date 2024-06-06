@@ -76,8 +76,8 @@
 <br /><br />
 ## 🔖🎓 Certified With:
 
-<a href="https://www.credly.com/badges/1529f8a1-7606-4919-9517-7d1cb9cecba7/public_url"><img src="Certification/networking-basics.png" height="100" width="100"></img></a>
-<a href="https://skillshop.credential.net/72081c87-ba4a-4c56-97f3-a1ceac5d6935#gs.ag836o"><img src="Certification/google-analytics.png" height="110" width="110"></img></a>
+<a href="https://badgr.com/public/assertions/rRojVxkMRs-Sle6RDSlcdg?identity__email=dakshanapeiris@gmail.com"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/PostmanAcademyShield.png" height="120" width="120"></img></a>
+<a href="https://www.credly.com/badges/d1698834-42cf-44d1-9dc2-1d0cf844ce40/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/ethical-hacker.png" height="130" width="130"></img></a>
 
 <hr>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuklidD&show_icons=true&locale=en&layout=compact" alt="YuklidD" /></p>
