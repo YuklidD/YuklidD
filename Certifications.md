@@ -5,6 +5,8 @@
 <summary><b>(click to expand or hide)</b></summary>  
 
 
+1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
+
 1. [THM-CompTIA Pentest+](#thmcom)
 
 1. [Cisco-Ethical Hacker](#ciscoeh)
@@ -53,6 +55,11 @@
 
 
 </details>
+
+<a id="thmcom"></a>
+## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
+
+![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Security%20Compliance%20and%20Identity%20Fundamentals.png?raw=true)
 
 <a id="thmcom"></a>
 ## THM-CompTIA Pentest+
