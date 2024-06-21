@@ -56,7 +56,7 @@
 
 </details>
 
-<a id="thmcom"></a>
+<a id="micro"></a>
 ## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
 
 ![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Security%20Compliance%20and%20Identity%20Fundamentals.png?raw=true)
