@@ -78,6 +78,9 @@
 
 <a href="https://badgr.com/public/assertions/rRojVxkMRs-Sle6RDSlcdg?identity__email=dakshanapeiris@gmail.com"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/PostmanAcademyShield.png" height="120" width="120"></img></a>
 <a href="https://www.credly.com/badges/d1698834-42cf-44d1-9dc2-1d0cf844ce40/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/ethical-hacker.png" height="130" width="130"></img></a>
+<a href="https://www.credly.com/badges/f7589819-da60-407f-90d3-4deebbe409e6/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/isc2-candidate.png" height="130" width="130"></img></a>
+<a href="https://www.credly.com/badges/3fb8b4db-9e74-404b-b01b-862488ed69cc/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/microsoft-certified-security-compliance-and-identity-fundamentals.png" height="130" width="130"></img></a>
+
 
 <hr>
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuklidD&show_icons=true&locale=en&layout=compact" alt="YuklidD" /></p>
