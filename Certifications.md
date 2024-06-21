@@ -59,7 +59,7 @@
 <a id="micro"></a>
 ## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
 
-![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Security%20Compliance%20and%20Identity%20Fundamentals.png?raw=true)
+![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/a0fcb30b41e22030b22783cfeb49a4148d0daf19/Assets/Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals%20(SC-900).png)
 
 <a id="thmcom"></a>
 ## THM-CompTIA Pentest+
