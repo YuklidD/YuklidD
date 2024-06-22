@@ -7,6 +7,8 @@
 
 1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
 
+1. [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](#oracle)
+
 1. [THM-CompTIA Pentest+](#thmcom)
 
 1. [Cisco-Ethical Hacker](#ciscoeh)
@@ -60,6 +62,11 @@
 ## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
 
 ![Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](https://github.com/YuklidD/YuklidD/blob/a0fcb30b41e22030b22783cfeb49a4148d0daf19/Assets/Microsoft%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals%20(SC-900).png)
+
+<a id="oracle"></a>
+## Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate
+
+![Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://github.com/YuklidD/YuklidD/blob/main/Assets/%20Oracle%20Cloud%20Infrastructure%202023%20AI%20Certified%20Foundations%20Associate.png)
 
 <a id="thmcom"></a>
 ## THM-CompTIA Pentest+
