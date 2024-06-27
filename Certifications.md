@@ -5,6 +5,8 @@
 <summary><b>(click to expand or hide)</b></summary>  
 
 
+1. [Certified Network Security Practitioner (CNSP)](#cnsp)
+
 1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
 
 1. [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](#oracle)
@@ -57,6 +59,11 @@
 
 
 </details>
+
+<a id="cnsp"></a>
+## Certified Network Security Practitioner (CNSP)
+
+![Certified Network Security Practitioner (CNSP)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Certified%20Network%20Security%20Practitioner%20(CNSP).png)
 
 <a id="micro"></a>
 ## Microsoft Security, Compliance, and Identity Fundamentals (SC-900) 
