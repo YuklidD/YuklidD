@@ -5,6 +5,8 @@
 <summary><b>(click to expand or hide)</b></summary>  
 
 
+1. [Network Support and Security](#cisconet)
+
 1. [Certified Network Security Practitioner (CNSP)](#cnsp)
 
 1. [Microsoft Security, Compliance, and Identity Fundamentals (SC-900)](#micro)
@@ -59,6 +61,11 @@
 
 
 </details>
+
+<a id="cisconet"></a>
+## Network Support and Security
+
+![Network Support and Security](https://github.com/YuklidD/YuklidD/blob/main/Assets/Network%20Support%20and%20Security.png)
 
 <a id="cnsp"></a>
 ## Certified Network Security Practitioner (CNSP)
