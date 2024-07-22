@@ -83,7 +83,7 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5A76C61D5B1B750EC5D315B4AF4AE5A25F8E2BE4104FC282D7E65F21E2D7289"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/OCI23AIFCA-cropped.png" height="130" width="130"></img></a>
 <a href="https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXTirvAiHbuROk+V+WEIv0RbeFzLn/oeJzUWQ1z/uusvq6BmnPQeVo81BCi7Zx3uFvdlx+ST0I+EO5MI/t12TBFc="><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/Certified-Network-Security-Practitioner-whbg.png" height="130" width="130"></img></a>
 <a href="https://www.credly.com/badges/30ab5b0f-2215-4077-8e11-0e5388d31f70/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/network-support-and-security.png" height="130" width="130"></img></a>
-<a href="https://www.credly.com/badges/bd1ba631-870e-4dd8-9691-0e4050c2a3ce/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/Github%20Foundations.jpg" height="130" width="130"></img></a>
+<a href="https://www.credly.com/badges/bd1ba631-870e-4dd8-9691-0e4050c2a3ce/public_url"><img src="https://github.com/YuklidD/YuklidD/blob/main/Images/github-foundation.png" height="130" width="130"></img></a>
 
 
 <hr>
