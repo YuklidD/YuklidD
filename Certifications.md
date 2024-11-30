@@ -7,6 +7,8 @@
 
 1. [Certified AppSec Practitioner (CAP)](#cap)
 
+1. [HackTheBox Pro Lab P.O.O.](#poo)
+
 1. [Network Support and Security](#cisconet)
 
 1. [Certified Network Security Practitioner (CNSP)](#cnsp)
@@ -68,6 +70,11 @@
 ## Certified AppSec Practitioner (CAP)
 
 ![Certified AppSec Practitioner (CAP)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Certified%20AppSec%20Practitioner%20(CAP).png)
+
+<a id="poo"></a>
+## HackTheBox Pro Lab P.O.O.
+
+![HackTheBox Pro Lab P.O.O.](https://github.com/YuklidD/YuklidD/blob/main/Assets/HTB%20Pro%20Lab%20P.O.O..png)
 
 <a id="cisconet"></a>
 ## Network Support and Security
