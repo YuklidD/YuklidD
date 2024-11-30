@@ -5,6 +5,8 @@
 <summary><b>(click to expand or hide)</b></summary>  
 
 
+1. [Certified AppSec Practitioner (CAP)](#cap)
+
 1. [Network Support and Security](#cisconet)
 
 1. [Certified Network Security Practitioner (CNSP)](#cnsp)
@@ -61,6 +63,11 @@
 
 
 </details>
+
+<a id="cap"></a>
+## Certified AppSec Practitioner (CAP)
+
+![Certified AppSec Practitioner (CAP)](https://github.com/YuklidD/YuklidD/blob/main/Assets/Certified%20AppSec%20Practitioner%20(CAP).png)
 
 <a id="cisconet"></a>
 ## Network Support and Security
